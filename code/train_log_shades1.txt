@@ -1,0 +1,237 @@
+Loading '../faces/cheyer/cheyer_straight_happy_sunglasses_4.pgm'...done
+Loading '../faces/boland/boland_straight_neutral_sunglasses_4.pgm'...done
+Loading '../faces/kk49/kk49_straight_angry_open_4.pgm'...done
+Loading '../faces/mitchell/mitchell_straight_happy_open_4.pgm'...done
+Loading '../faces/karyadi/karyadi_straight_neutral_sunglasses_4.pgm'...done
+Loading '../faces/steffi/steffi_straight_angry_open_4.pgm'...done
+Loading '../faces/steffi/steffi_straight_happy_open_4.pgm'...done
+Loading '../faces/karyadi/karyadi_straight_angry_sunglasses_4.pgm'...done
+Loading '../faces/ch4f/ch4f_straight_angry_sunglasses_4.pgm'...done
+Loading '../faces/sz24/sz24_straight_neutral_sunglasses_4.pgm'...done
+Loading '../faces/an2i/an2i_straight_angry_open_4.pgm'...done
+Loading '../faces/phoebe/phoebe_straight_neutral_sunglasses_4.pgm'...done
+Loading '../faces/glickman/glickman_straight_sad_open_4.pgm'...done
+Loading '../faces/night/night_straight_angry_sunglasses_4.pgm'...done
+Loading '../faces/karyadi/karyadi_straight_neutral_open_4.pgm'...done
+Loading '../faces/megak/megak_straight_neutral_sunglasses_4.pgm'...done
+Loading '../faces/at33/at33_straight_angry_open_4.pgm'...done
+Loading '../faces/choon/choon_straight_neutral_sunglasses_4.pgm'...done
+Loading '../faces/cheyer/cheyer_straight_neutral_sunglasses_4.pgm'...done
+Loading '../faces/bpm/bpm_straight_angry_sunglasses_4.pgm'...done
+Loading '../faces/night/night_straight_happy_sunglasses_4.pgm'...done
+Loading '../faces/sz24/sz24_straight_happy_open_4.pgm'...done
+Loading '../faces/bpm/bpm_straight_neutral_sunglasses_4.pgm'...done
+Loading '../faces/at33/at33_straight_sad_sunglasses_4.pgm'...done
+Loading '../faces/saavik/saavik_straight_neutral_open_4.pgm'...done
+Loading '../faces/bpm/bpm_straight_sad_open_4.pgm'...done
+Loading '../faces/phoebe/phoebe_straight_happy_open_4.pgm'...done
+Loading '../faces/ch4f/ch4f_straight_happy_sunglasses_4.pgm'...done
+Loading '../faces/an2i/an2i_straight_neutral_open_4.pgm'...done
+Loading '../faces/kawamura/kawamura_straight_sad_sunglasses_4.pgm'...done
+Loading '../faces/an2i/an2i_straight_sad_open_4.pgm'...done
+Loading '../faces/tammo/tammo_straight_neutral_open_4.pgm'...done
+Loading '../faces/cheyer/cheyer_straight_happy_open_4.pgm'...done
+Loading '../faces/phoebe/phoebe_straight_angry_sunglasses_4.pgm'...done
+Loading '../faces/an2i/an2i_straight_happy_sunglasses_4.pgm'...done
+Loading '../faces/cheyer/cheyer_straight_sad_sunglasses_4.pgm'...done
+Loading '../faces/choon/choon_straight_happy_sunglasses_4.pgm'...done
+Loading '../faces/danieln/danieln_straight_happy_open_4.pgm'...done
+Loading '../faces/glickman/glickman_straight_happy_sunglasses_4.pgm'...done
+Loading '../faces/megak/megak_straight_happy_sunglasses_4.pgm'...done
+Loading '../faces/steffi/steffi_straight_sad_sunglasses_4.pgm'...done
+Loading '../faces/danieln/danieln_straight_angry_sunglasses_4.pgm'...done
+Loading '../faces/phoebe/phoebe_straight_sad_sunglasses_4.pgm'...done
+Loading '../faces/danieln/danieln_straight_angry_open_4.pgm'...done
+Loading '../faces/an2i/an2i_straight_neutral_sunglasses_4.pgm'...done
+Loading '../faces/sz24/sz24_straight_neutral_open_4.pgm'...done
+Loading '../faces/night/night_straight_sad_sunglasses_4.pgm'...done
+Loading '../faces/kk49/kk49_straight_neutral_sunglasses_4.pgm'...done
+Loading '../faces/glickman/glickman_straight_sad_sunglasses_4.pgm'...done
+Loading '../faces/kk49/kk49_straight_neutral_open_4.pgm'...done
+Loading '../faces/kawamura/kawamura_straight_happy_open_4.pgm'...done
+Loading '../faces/cheyer/cheyer_straight_sad_open_4.pgm'...done
+Loading '../faces/ch4f/ch4f_straight_neutral_sunglasses_4.pgm'...done
+Loading '../faces/steffi/steffi_straight_neutral_open_4.pgm'...done
+Loading '../faces/boland/boland_straight_happy_open_4.pgm'...done
+Loading '../faces/night/night_straight_happy_open_4.pgm'...done
+Loading '../faces/danieln/danieln_straight_neutral_open_4.pgm'...done
+Loading '../faces/saavik/saavik_straight_happy_open_4.pgm'...done
+Loading '../faces/mitchell/mitchell_straight_angry_sunglasses_4.pgm'...done
+Loading '../faces/night/night_straight_neutral_sunglasses_4.pgm'...done
+Loading '../faces/mitchell/mitchell_straight_neutral_open_4.pgm'...done
+Loading '../faces/karyadi/karyadi_straight_happy_sunglasses_4.pgm'...done
+Loading '../faces/sz24/sz24_straight_sad_sunglasses_4.pgm'...done
+Loading '../faces/glickman/glickman_straight_happy_open_4.pgm'...done
+Loading '../faces/megak/megak_straight_angry_sunglasses_4.pgm'...done
+Loading '../faces/choon/choon_straight_happy_open_4.pgm'...done
+Loading '../faces/phoebe/phoebe_straight_angry_open_4.pgm'...done
+Loading '../faces/danieln/danieln_straight_sad_open_4.pgm'...done
+Loading '../faces/megak/megak_straight_neutral_open_4.pgm'...done
+Loading '../faces/tammo/tammo_straight_sad_sunglasses_4.pgm'...done
+Loading '../faces/kk49/kk49_straight_sad_open_4.pgm'...done
+Loading '../faces/karyadi/karyadi_straight_sad_sunglasses_4.pgm'...done
+Loading '../faces/phoebe/phoebe_straight_happy_sunglasses_4.pgm'...done
+Loading '../faces/phoebe/phoebe_straight_sad_open_4.pgm'...done
+Loading '../faces/at33/at33_straight_happy_open_4.pgm'...done
+Loading '../faces/megak/megak_straight_sad_open_4.pgm'...done
+Loading '../faces/boland/boland_straight_sad_open_4.pgm'...done
+Loading '../faces/an2i/an2i_straight_sad_sunglasses_4.pgm'...done
+Loading '../faces/steffi/steffi_straight_neutral_sunglasses_4.pgm'...done
+Loading '../faces/sz24/sz24_straight_happy_sunglasses_4.pgm'...done
+Loading '../faces/sz24/sz24_straight_angry_sunglasses_4.pgm'...done
+Loading '../faces/tammo/tammo_straight_happy_sunglasses_4.pgm'...done
+Loading '../faces/tammo/tammo_straight_happy_open_4.pgm'...done
+Loading '../faces/saavik/saavik_straight_sad_open_4.pgm'...done
+Loading '../faces/glickman/glickman_straight_neutral_open_4.pgm'...done
+Loading '../faces/saavik/saavik_straight_angry_sunglasses_4.pgm'...done
+Loading '../faces/mitchell/mitchell_straight_sad_sunglasses_4.pgm'...done
+Loading '../faces/cheyer/cheyer_straight_angry_open_4.pgm'...done
+Loading '../faces/megak/megak_straight_happy_open_4.pgm'...done
+Loading '../faces/ch4f/ch4f_straight_sad_sunglasses_4.pgm'...done
+Loading '../faces/steffi/steffi_straight_sad_open_4.pgm'...done
+Loading '../faces/kawamura/kawamura_straight_angry_sunglasses_4.pgm'...done
+Loading '../faces/an2i/an2i_straight_angry_sunglasses_4.pgm'...done
+Loading '../faces/ch4f/ch4f_straight_neutral_open_4.pgm'...done
+Loading '../faces/at33/at33_straight_neutral_sunglasses_4.pgm'...done
+Loading '../faces/mitchell/mitchell_straight_happy_sunglasses_4.pgm'...done
+Loading '../faces/tammo/tammo_straight_neutral_sunglasses_4.pgm'...done
+Loading '../faces/choon/choon_straight_neutral_open_4.pgm'...done
+Loading '../faces/kawamura/kawamura_straight_neutral_sunglasses_4.pgm'...done
+Loading '../faces/karyadi/karyadi_straight_sad_open_4.pgm'...done
+Loading '../faces/kk49/kk49_straight_happy_sunglasses_4.pgm'...done
+Loading '../faces/kawamura/kawamura_straight_sad_open_4.pgm'...done
+Loading '../faces/bpm/bpm_straight_happy_open_4.pgm'...done
+Loading '../faces/ch4f/ch4f_straight_happy_open_4.pgm'...done
+Loading '../faces/tammo/tammo_straight_angry_open_4.pgm'...done
+Loading '../faces/megak/megak_straight_angry_open_4.pgm'...done
+Loading '../faces/saavik/saavik_straight_sad_sunglasses_4.pgm'...done
+Loading '../faces/bpm/bpm_straight_happy_sunglasses_4.pgm'...done
+Loading '../faces/at33/at33_straight_happy_sunglasses_4.pgm'...done
+Loading '../faces/mitchell/mitchell_straight_neutral_sunglasses_4.pgm'...done
+Loading '../faces/mitchell/mitchell_straight_sad_open_4.pgm'...done
+Loading '../faces/night/night_straight_sad_open_4.pgm'...done
+Loading '../faces/kawamura/kawamura_straight_angry_open_4.pgm'...done
+Loading '../faces/tammo/tammo_straight_angry_sunglasses_4.pgm'...done
+Loading '../faces/night/night_straight_angry_open_4.pgm'...done
+Loading '../faces/danieln/danieln_straight_sad_sunglasses_4.pgm'...done
+Loading '../faces/choon/choon_straight_angry_open_4.pgm'...done
+Loading '../faces/choon/choon_straight_angry_sunglasses_4.pgm'...done
+Loading '../faces/kk49/kk49_straight_sad_sunglasses_4.pgm'...done
+Loading '../faces/choon/choon_straight_sad_open_4.pgm'...done
+Loading '../faces/danieln/danieln_straight_neutral_sunglasses_4.pgm'...done
+Loading '../faces/saavik/saavik_straight_neutral_sunglasses_4.pgm'...done
+Loading '../faces/kawamura/kawamura_straight_neutral_open_4.pgm'...done
+Loading '../faces/boland/boland_straight_angry_sunglasses_4.pgm'...done
+Loading '../faces/sz24/sz24_straight_sad_open_4.pgm'...done
+Loading '../faces/bpm/bpm_straight_angry_open_4.pgm'...done
+Loading '../faces/kawamura/kawamura_straight_happy_sunglasses_4.pgm'...done
+Loading '../faces/boland/boland_straight_sad_sunglasses_4.pgm'...done
+Loading '../faces/glickman/glickman_straight_neutral_sunglasses_4.pgm'...done
+Loading '../faces/ch4f/ch4f_straight_angry_open_4.pgm'...done
+Loading '../faces/cheyer/cheyer_straight_angry_sunglasses_4.pgm'...done
+Loading '../faces/an2i/an2i_straight_happy_open_4.pgm'...done
+Loading '../faces/at33/at33_straight_angry_sunglasses_4.pgm'...done
+Loading '../faces/saavik/saavik_straight_angry_open_4.pgm'...done
+Loading '../faces/kk49/kk49_straight_angry_sunglasses_4.pgm'...done
+Loading '../faces/sz24/sz24_straight_angry_open_4.pgm'...done
+Loading '../faces/phoebe/phoebe_straight_neutral_open_4.pgm'...done
+Loading '../faces/at33/at33_straight_sad_open_4.pgm'...done
+Loading '../faces/glickman/glickman_straight_angry_sunglasses_4.pgm'...done
+Loading '../faces/cheyer/cheyer_straight_neutral_open_4.pgm'...done
+Loading '../faces/ch4f/ch4f_straight_sad_open_4.pgm'...done
+Loading '../faces/boland/boland_straight_neutral_open_4.pgm'...done
+Loading '../faces/boland/boland_straight_angry_open_4.pgm'...done
+Loading '../faces/karyadi/karyadi_straight_happy_open_4.pgm'...done
+Loading '../faces/saavik/saavik_straight_happy_sunglasses_4.pgm'...done
+Loading '../faces/at33/at33_straight_neutral_open_4.pgm'...done
+Loading '../faces/night/night_straight_neutral_open_4.pgm'...done
+Loading '../faces/karyadi/karyadi_straight_angry_open_4.pgm'...done
+Loading '../faces/bpm/bpm_straight_sad_sunglasses_4.pgm'...done
+Loading '../faces/choon/choon_straight_sad_sunglasses_4.pgm'...done
+Loading '../faces/steffi/steffi_straight_happy_sunglasses_4.pgm'...done
+Loading '../faces/boland/boland_straight_happy_sunglasses_4.pgm'...done
+Loading '../faces/bpm/bpm_straight_neutral_open_4.pgm'...done
+Loading '../faces/steffi/steffi_straight_angry_sunglasses_4.pgm'...done
+Loading '../faces/kk49/kk49_straight_happy_open_4.pgm'...done
+Loading '../faces/tammo/tammo_straight_sad_open_4.pgm'...done
+Random number generator seed: 102194
+70 training, 34 test1, 52 test2 images
+Training for 75 epochs
+Saving every 100 epochs
+0 0.0 100 0.000234626 100 0.00299188 96.1538 0.0122738 
+1 0.120438 100 0.000234285 100 0.00298911 96.1538 0.0122685 
+2 0.120336 100 0.000233935 100 0.00298653 96.1538 0.0122638 
+3 0.120216 100 0.000233586 100 0.00298395 96.1538 0.012259 
+4 0.120097 100 0.000233237 100 0.00298136 96.1538 0.0122542 
+5 0.11998 100 0.00023289 100 0.00297877 96.1538 0.0122494 
+6 0.119864 100 0.000232543 100 0.00297619 96.1538 0.0122446 
+7 0.119748 100 0.000232197 100 0.00297361 96.1538 0.0122398 
+8 0.119634 100 0.000231852 100 0.00297104 96.1538 0.012235 
+9 0.11952 100 0.000231507 100 0.00296848 96.1538 0.0122302 
+10 0.119407 100 0.000231163 100 0.00296593 96.1538 0.0122255 
+11 0.119294 100 0.00023082 100 0.00296338 96.1538 0.0122207 
+12 0.119182 100 0.000230477 100 0.00296084 96.1538 0.012216 
+13 0.11907 100 0.000230134 100 0.0029583 96.1538 0.0122113 
+14 0.118959 100 0.000229792 100 0.00295578 96.1538 0.0122066 
+15 0.118848 100 0.000229451 100 0.00295326 96.1538 0.0122019 
+16 0.118737 100 0.00022911 100 0.00295075 96.1538 0.0121972 
+17 0.118627 100 0.000228769 100 0.00294825 96.1538 0.0121926 
+18 0.118518 100 0.000228429 100 0.00294575 96.1538 0.0121879 
+19 0.118408 100 0.000228089 100 0.00294326 96.1538 0.0121833 
+20 0.118299 100 0.00022775 100 0.00294078 96.1538 0.0121786 
+21 0.118191 100 0.000227412 100 0.00293831 96.1538 0.012174 
+22 0.118082 100 0.000227074 100 0.00293585 96.1538 0.0121694 
+23 0.117974 100 0.000226736 100 0.00293339 96.1538 0.0121649 
+24 0.117867 100 0.000226399 100 0.00293094 96.1538 0.0121603 
+25 0.11776 100 0.000226062 100 0.0029285 96.1538 0.0121557 
+26 0.117653 100 0.000225726 100 0.00292606 96.1538 0.0121512 
+27 0.117546 100 0.00022539 100 0.00292364 96.1538 0.0121467 
+28 0.11744 100 0.000225055 100 0.00292122 96.1538 0.0121421 
+29 0.117333 100 0.00022472 100 0.00291881 96.1538 0.0121376 
+30 0.117228 100 0.000224385 100 0.0029164 96.1538 0.0121332 
+31 0.117122 100 0.000224051 100 0.00291401 96.1538 0.0121287 
+32 0.117017 100 0.000223718 100 0.00291162 96.1538 0.0121242 
+33 0.116912 100 0.000223385 100 0.00290924 96.1538 0.0121198 
+34 0.116808 100 0.000223052 100 0.00290687 96.1538 0.0121153 
+35 0.116703 100 0.00022272 100 0.0029045 96.1538 0.0121109 
+36 0.116599 100 0.000222388 100 0.00290214 96.1538 0.0121065 
+37 0.116495 100 0.000222057 100 0.00289979 96.1538 0.0121021 
+38 0.116392 100 0.000221726 100 0.00289745 96.1538 0.0120977 
+39 0.116288 100 0.000221395 100 0.00289512 96.1538 0.0120933 
+40 0.116185 100 0.000221065 100 0.00289279 96.1538 0.012089 
+41 0.116083 100 0.000220736 100 0.00289047 96.1538 0.0120846 
+42 0.11598 100 0.000220406 100 0.00288816 96.1538 0.0120803 
+43 0.115878 100 0.000220078 100 0.00288586 96.1538 0.0120759 
+44 0.115776 100 0.000219749 100 0.00288356 96.1538 0.0120716 
+45 0.115674 100 0.000219422 100 0.00288127 96.1538 0.0120673 
+46 0.115572 100 0.000219094 100 0.00287899 96.1538 0.012063 
+47 0.115471 100 0.000218767 100 0.00287672 96.1538 0.0120588 
+48 0.11537 100 0.00021844 100 0.00287445 96.1538 0.0120545 
+49 0.115269 100 0.000218114 100 0.0028722 96.1538 0.0120503 
+50 0.115168 100 0.000217788 100 0.00286995 96.1538 0.012046 
+51 0.115067 100 0.000217463 100 0.0028677 96.1538 0.0120418 
+52 0.114967 100 0.000217138 100 0.00286547 96.1538 0.0120376 
+53 0.114867 100 0.000216814 100 0.00286324 96.1538 0.0120334 
+54 0.114767 100 0.000216489 100 0.00286102 96.1538 0.0120292 
+55 0.114667 100 0.000216166 100 0.00285881 96.1538 0.012025 
+56 0.114567 100 0.000215842 100 0.00285661 96.1538 0.0120208 
+57 0.114468 100 0.00021552 100 0.00285441 96.1538 0.0120167 
+58 0.114369 100 0.000215197 100 0.00285222 96.1538 0.0120125 
+59 0.11427 100 0.000214875 100 0.00285004 96.1538 0.0120084 
+60 0.114171 100 0.000214553 100 0.00284787 96.1538 0.0120043 
+61 0.114072 100 0.000214232 100 0.00284571 96.1538 0.0120002 
+62 0.113974 100 0.000213911 100 0.00284355 96.1538 0.0119961 
+63 0.113875 100 0.000213591 100 0.0028414 96.1538 0.011992 
+64 0.113777 100 0.000213271 100 0.00283926 96.1538 0.0119879 
+65 0.113679 100 0.000212951 100 0.00283712 96.1538 0.0119838 
+66 0.113581 100 0.000212632 100 0.002835 96.1538 0.0119798 
+67 0.113483 100 0.000212313 100 0.00283288 96.1538 0.0119757 
+68 0.113386 100 0.000211995 100 0.00283077 96.1538 0.0119717 
+69 0.113288 100 0.000211677 100 0.00282866 96.1538 0.0119677 
+70 0.113191 100 0.000211359 100 0.00282657 96.1538 0.0119637 
+71 0.113094 100 0.000211042 100 0.00282448 96.1538 0.0119597 
+72 0.112997 100 0.000210726 100 0.0028224 96.1538 0.0119557 
+73 0.1129 100 0.000210409 100 0.00282033 96.1538 0.0119517 
+74 0.112803 100 0.000210093 100 0.00281826 96.1538 0.0119478 
+75 0.112706 100 0.000209778 100 0.0028162 96.1538 0.0119438 
+Saving 960x4x1 network to 'shades1.net'
