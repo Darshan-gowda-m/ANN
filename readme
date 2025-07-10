@@ -1,0 +1,45 @@
+sudo apt update
+sudo apt install python3-matplotlib python3-pil -y
+
+
+# Step into Windows C: drive
+cd /mnt/c
+
+# Navigate to your face recognition project directory
+cd "Users/DHARSHAN GWODA M/OneDrive/UVCE/6th/ml/face_recognition/code"
+
+# Update Ubuntu packages (optional but recommended)
+sudo apt update
+
+# Rebuild the project (cleans old object files)
+make clean && make
+
+# -------------------------
+# 🔵 TRAIN NETWORK 1: shades1.net (Random Straight Faces with Sunglasses)
+# - Train using straightrnd_train.list
+# - Evaluate using straightrnd_test1 and test2
+# - Save training logs to 'train_log_shades1.txt'
+# -------------------------
+./facetrain -n shades1.net -t ../trainset/straightrnd_train.list \
+-1 ../trainset/straightrnd_test1.list -2 ../trainset/straightrnd_test2.list -e 75 > train_log_shades1.txt
+
+# -------------------------
+# 🟢 TRAIN NETWORK 2: shades2.net (Even Straight Faces with Sunglasses)
+# - Train using straighteven_train.list
+# - Evaluate using straighteven_test1 and test2
+# - Save training logs to 'train_log_shades2.txt'
+# -------------------------
+./facetrain -n shades2.net -t ../trainset/straighteven_train.list \
+-1 ../trainset/straighteven_test1.list -2 ../trainset/straighteven_test2.list -e 75 > train_log_shades2.txt
+
+# -------------------------
+# 🔴 TRAIN NETWORK 3: pose.net (All Pose Variations)
+# - Train using all_train.list
+# - Evaluate using all_test1 and test2
+# - Save training logs to 'train_log_pose.txt'
+# -------------------------
+./facetrain -n pose.net -t ../trainset/all_train.list \
+-1 ../trainset/all_test1.list -2 ../trainset/all_test2.list -e 100 > train_log_pose.txt
+
+
+python3 v1.py
